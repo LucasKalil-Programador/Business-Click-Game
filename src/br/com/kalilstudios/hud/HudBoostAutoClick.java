@@ -123,7 +123,7 @@ public class HudBoostAutoClick implements RenderElement {
 				.divide(BigDecimal.valueOf(1000 * Math.pow(autoClickLevel + 1, 2)), DOWN);
 
 		// retorna o resultado
-		return resultado.intValueExact();
+		return Math.min(resultado.intValueExact(), 100);
 	}
 
 	private class ThreadAutoClick extends Thread {
@@ -146,7 +146,7 @@ public class HudBoostAutoClick implements RenderElement {
 				// caso a porcemtagem seja 100% adiciona 1 ao autoClickLevel com limite de 10
 				if (jogador.boost.autoClickLevel <= 10 && porcentagem >= 100) {
 					jogador.boost.autoClickLevel++;
-					
+
 					// pede para a janela renderizar mais um quadro
 					janela.renderGraphics.novoQuadro++;
 				}

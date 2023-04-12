@@ -1,69 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Business-Click-Game:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14deba38-b561-446b-99cb-50f5032bc998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/Hud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudBoostAutoClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudNegocio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudPrestigio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/janela/FPSControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/janela/Janela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/janela/RenderElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/janela/RenderGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/janela/RenderPreConfigs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Achievements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Boosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Configs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Negocios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/arrow left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/arrow rigth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/dinheiro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/dinheiroicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/amazon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/amd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/barraca limonada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/burgerking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/cinema.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/disney.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/eagames.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/epicgames.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/ferrari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/intel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/lojas americanas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/mcdonalds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/mercado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/microsoft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/netflix.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/nintendo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/nvidia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/outback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/pastelaria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/rockstar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/shopping.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/starbucks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/steam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/tesla.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/toyota.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/ubisoft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/volkswagen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/volvo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/wallmart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/mira ativada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/mira desativada.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/upgrade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/resource/upgradefail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/utils/Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/utils/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Business-Click-Game-Build.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudBoostAutoClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudBoostAutoClick.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OKKUPUwjOLEXQEIZuqZb9uBW8U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,13 +36,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/lucas/Desktop/Main_folder/Programming/Java/Business-Click-Game/src",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+    "last_opened_file_path": "C:/Users/lucas/Desktop/Main_folder/Programming/Java/translator",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lucas\Desktop\Main_folder\Programming\Java\Business-Click-Game\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Desktop\Main_folder\Programming\Java\Business-Click-Game" />
     </key>
   </component>
   <component name="RunManager">
