@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/hud/Hud.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudBoostAutoClick.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudClick.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudConfig.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudNegocio.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudPrestigio.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/janela/FPSControl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/janela/Janela.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/janela/RenderElement.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/janela/RenderGraphics.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/janela/RenderPreConfigs.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Achievements.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Boosts.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Configs.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Jogador.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/jogador/Negocios.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/main/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/arrow left.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/arrow rigth.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/dinheiro.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/dinheiroicon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/amazon.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/amd.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/apple.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/barraca limonada.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/burgerking.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/cinema.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/disney.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/eagames.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/epicgames.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/ferrari.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/intel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/lojas americanas.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/mcdonalds.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/mercado.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/microsoft.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/netflix.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/nintendo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/nvidia.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/outback.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/pastelaria.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/rockstar.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/shopping.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/starbucks.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/steam.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/tesla.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/toyota.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/ubisoft.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/volkswagen.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/volvo.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/images negocios/wallmart.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/mira ativada.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/mira desativada.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/upgrade.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/resource/upgradefail.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/utils/Const.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/br/com/kalilstudios/utils/Utils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/kalilstudios" charset="windows-1252" />
+  </component>
+</project>
