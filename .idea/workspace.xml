@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14deba38-b561-446b-99cb-50f5032bc998" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Business-Click-Game-Build.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudBoostAutoClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/kalilstudios/hud/HudBoostAutoClick.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
       <recent name="C:\Users\lucas\Desktop\Main_folder\Programming\Java\Business-Click-Game\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\Desktop\Main_folder\Programming\Java\Business-Click-Game-Build" />
       <recent name="C:\Users\lucas\Desktop\Main_folder\Programming\Java\Business-Click-Game" />
     </key>
   </component>

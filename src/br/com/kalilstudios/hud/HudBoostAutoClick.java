@@ -144,7 +144,7 @@ public class HudBoostAutoClick implements RenderElement {
 				}
 
 				// caso a porcemtagem seja 100% adiciona 1 ao autoClickLevel com limite de 10
-				if (jogador.boost.autoClickLevel <= 10 && porcentagem >= 100) {
+				if (jogador.boost.autoClickLevel < 10 && porcentagem >= 100) {
 					jogador.boost.autoClickLevel++;
 
 					// pede para a janela renderizar mais um quadro
